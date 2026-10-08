@@ -1,0 +1,8 @@
+# python cache
+__pycache__/
+# tasks file
+tasks.py
+#log files
+*.log
+#private envoriment file
+.env
