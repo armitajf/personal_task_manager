@@ -7,4 +7,4 @@ while True:
     if priority in ["low", "medium", "hight"]:
         break
     else:
-        print("invalid priority, Please enter low, medium, or high")
+        print("invalid priority, Please enter low, medium, or high :")

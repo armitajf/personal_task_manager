@@ -143,7 +143,7 @@ your task :
 ![start game](pictures\pic1.png)
 
 ### your task
-![quiz](pictures\pic3.png)
+![your task](pictures\pic3.png)
 
 ### final 
 ![final score](pictures\pic2.png)
@@ -159,4 +159,4 @@ your task :
 
 ## Licnse
 
-## Author/
+## Author
