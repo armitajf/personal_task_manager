@@ -142,7 +142,7 @@ your task :
 ### start game
 ![start game](pictures\pic1.png)
 
-### qustion 1
+### your task
 ![quiz](pictures\pic3.png)
 
 ### final 
@@ -151,3 +151,12 @@ your task :
 
 ## Demo
 ![task manager demo](demo/Animation.gif)
+
+
+## Roadmap
+
+## Contributing
+
+## Licnse
+
+## Author/
