@@ -53,6 +53,10 @@ This program stores and manages user information.
   - Loads environment variables using `python-dotenv`
   - Reads the admin password from `.env`
   - Keeps the admin password outside the main Python file
+- Add and manage tasks
+- Store and display task information
+- Assing a priority level to tasks
+- Organize tasks based on their priority
 
 
 ## Project Structure
@@ -154,9 +158,14 @@ your task :
 
 
 ## Roadmap
+- [x] Craete the basic task management program
+- [x] Add task priority functionality
+- [ ] Improve task organization
+- [ ] Add more task management feature
 
 ## Contributing
 
 ## Licnse
 
 ## Author
+create by [armita jafarpour](https://github.com/armitajf)
