@@ -1,4 +1,5 @@
-from tasks import show_tasks
+from tasks import show_tasks, save_tasks
+
 name = input("enter your name: ")
 print("welcome", name)
 tasks = []
@@ -8,3 +9,4 @@ for i in range(count):
     tasks.append(task)
 
 show_tasks(tasks)
+save_tasks(tasks)
